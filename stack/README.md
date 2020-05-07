@@ -1,6 +1,6 @@
 # Stack
 
-Consists of a LIFO(Last In First Out) structure. 
+Consists of a **LIFO(Last In First Out)** structure. 
 
 ## Commons Operations
 
