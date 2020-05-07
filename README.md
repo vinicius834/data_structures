@@ -1,4 +1,4 @@
 # Data Structures
 
-This project implement in Go some of the data structures.
+This project implement some of the data structures in Golang.
 
