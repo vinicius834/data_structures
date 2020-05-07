@@ -1,6 +1,6 @@
 # Queue
 
-Queue is a FIFO(First In First Out) structure.
+Queue is a **FIFO(First In First Out)** structure.
 
 ## Commons Operations
 
